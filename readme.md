@@ -15,6 +15,15 @@ ws
 ### 使用说明
 
 ```
+构建
+make build
+运行
+make run
+停止
+make stop
+```
+
+```
 连接地址：
 ws://127.0.0.1:3101/ws?tag=ios&token=1
 token 是jwt token 目前使用user_id代替
